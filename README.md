@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
 **Nama Mahasiswa**: Yusna Millaturrosyidah  
-**NRP**: 5025211254 
-**Judul TA**: Prediksi Kelulusan Peserta Seleksi Nasional Berdasarkan Prestasi (SNBP) Menggunakan Pendekatan Ensemble Learning  
-**Dosen Pembimbing**: Dini Adni Navastara, S.Kom., M.Sc. 
-**Dosen Ko-pembimbing**: Prof. Dr.Eng. Nanik Suciati, S.Kom., M.Kom.
+**NRP**: 5025211254   
+**Judul TA**: Prediksi Kelulusan Peserta Seleksi Nasional Berdasarkan Prestasi (SNBP) Menggunakan Pendekatan Ensemble Learning    
+**Dosen Pembimbing**: Dini Adni Navastara, S.Kom., M.Sc.    
+**Dosen Ko-pembimbing**: Prof. Dr.Eng. Nanik Suciati, S.Kom., M.Kom.    
 
 ---
 
