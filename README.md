@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Yusna Millaturrosyidah  
+**NRP**: 5025211254 
+**Judul TA**: Prediksi Kelulusan Peserta Seleksi Nasional Berdasarkan Prestasi (SNBP) Menggunakan Pendekatan Ensemble Learning  
+**Dosen Pembimbing**: Dini Adni Navastara, S.Kom., M.Sc. 
+**Dosen Ko-pembimbing**: Prof. Dr.Eng. Nanik Suciati, S.Kom., M.Kom.
 
 ---
 
@@ -71,5 +71,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: [5025211254@student.its.ac.id]
+- Pembimbing Utama: [dini_navastara@if.its.ac.id]
